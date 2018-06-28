@@ -12,9 +12,9 @@ The trend line in energy data analyzed in:
 
 ### Data Prep
 * Data converted into numerical values 
-* Dummies 
-* Hot-Encoded 
-
+* Dummies columns
+* Hot-Encoded columns
+ 
 ### Tools Used 
 * Excel
 * Python
