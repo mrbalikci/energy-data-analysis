@@ -8,7 +8,7 @@ The trend line in energy data analyzed in:
 * Machine Learning: Linear Regression, Keras Model
 
 ### Data 
-* Data size is 357 rows
+* Data size has 357 rows
 
 ### Data Prep
 * Data converted into numerical values 
