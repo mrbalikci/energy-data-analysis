@@ -26,5 +26,6 @@ The trend line in energy data analyzed in:
 * Advance Excel
 
 ### Findings 
+
 * The equation of the line from excel has coefficients below with the R^2 value of 95% in dummies 
 * The equation of the line from excel has coefficients below with the R^2 value of 95% in hot-encoded 
