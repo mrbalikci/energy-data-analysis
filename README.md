@@ -14,9 +14,8 @@ The trend line in energy data analyzed in:
 * Data converted into numerical values 
 * Dummies columns
 * Hot-Encoded columns
- 
+
 ### Tools Used 
-* Excel
 * Python
 * Pandas
 * Matplotlib
@@ -24,6 +23,7 @@ The trend line in energy data analyzed in:
 * Keras
 * TenserFlow
 * Numpy 
+* Advance Excel
 
 ### Findings 
 * The equation of the line from excel has coefficients below with the R^2 value of 95% in dummies 
