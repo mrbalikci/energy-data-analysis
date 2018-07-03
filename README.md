@@ -8,7 +8,7 @@ The trend line in energy data analyzed in:
 
 * Excel
 * Python Pandas
-* Machine Learning: Linear Regression, Keras Model
+* Machine Learning: Linear Regression, Keras Model, Deep Learning
 
 ### Data 
 * Data size has 357 rows in this data set
