@@ -1,6 +1,8 @@
 ## Energy Data Analysis 
 
-The Goal: Find any relationship between energy consumption and temperature, weather and any other factors such as seasons, holidays, etc. 
+The Goal:
+
+Find any relationship between energy consumption and temperature, weather and any other factors such as seasons, holidays, etc. 
 
 The trend line in energy data analyzed in: 
 
