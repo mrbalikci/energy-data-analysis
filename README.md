@@ -3,12 +3,13 @@
 The Goal: Find any relationship between energy consumption and temperature, weather and any other factors such as seasons, holidays, etc. 
 
 The trend line in energy data analyzed in: 
+
 * Excel
 * Python Pandas
 * Machine Learning: Linear Regression, Keras Model
 
 ### Data 
-* Data size has 357 rows
+* Data size has 357 rows in this data set
 
 ### Data Prep
 * Data converted into numerical values 
