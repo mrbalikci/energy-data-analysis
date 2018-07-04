@@ -26,7 +26,7 @@ The trend line in energy data analyzed in:
 * Keras
 * TenserFlow
 * Numpy 
-* Advance Excel
+* Advanced Excel
 
 ### Findings 
 
